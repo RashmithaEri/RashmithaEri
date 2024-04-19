@@ -13,7 +13,7 @@ I'm Rashmitha, a healthcare professional enthusiastic about using technology and
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact:  I'm a music enthusiast and love discovering new artists and genres. Listening to music is my favorite way to unwind and relax after a busy day! 🎧🎶
+⚡ Fun fact: I am a good listener and enjoy hearing other people's stories and experiences.
 
 TECHNICAL SKILLS:
 Java Development;
