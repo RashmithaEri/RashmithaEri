@@ -12,7 +12,7 @@ I'm Rashmitha, a healthcare professional enthusiastic about using technology and
 
 👯 **Collaboration:** I'm eager to collaborate on projects related to health informatics, data analysis, and healthcare technology.
 
-💬 **Let's Chat:** Feel free to ask me about health informatics, data analysis in healthcare, and my journey from clinical practice to informatics. You can reach me via email at rashmithaeri@gmail.com or connect with me on LinkedIn.
+💬 **Let's Chat:** Feel free to ask me about health informatics, data analysis in healthcare, and my journey from clinical practice to informatics. You can reach me via email at rashmithaeri@gmail.com or connect with me on  [LinkedIn](https://www.linkedin.com/in/rashmitha-eri).
 
 😄 **Pronouns:** She/Her
 
@@ -31,11 +31,20 @@ I'm Rashmitha, a healthcare professional enthusiastic about using technology and
 ## My Projects:
 1. **Public Health Disease Surveillance Architecture Development Project:** 
    This project improves disease surveillance using cutting-edge data analytics and machine learning techniques, with the goal of strengthening public health infrastructure.
+   Technical skills used:
+   - Ubuntu server management were utilized for efficient server administration. 
+   - Apache configuration was employed to optimize web server settings. 
+   - Docker setup proficiency ensured streamlined deployment and management of containerized applications.
    [Link to Project](https://github.com/RashmithaEri/Architecture-development-project)
 
-2. **Research on Informatics in Emerging and Re-Emerging Infectious Diseases:**
-   This project uses informatics to address challenges from new and recurring infectious diseases, aiming to enhance detection, monitoring, and response capabilities through advanced data analysis and technology.
+3. **Research on Informatics in Emerging and Re-Emerging Infectious Diseases:**
+   This project uses informatics to address challenges from new and recurring infectious diseases, aiming to enhance detection, monitoring, and response capabilities through advanced 
+   data analysis and technology.
+   Technical skills used:
+   - Data Analysis: Examining and interpreting data to uncover insights and support decision-making.
+   - Literature Review: Analyzing existing research to understand the current state of knowledge.
+   - Case Study Analysis: Examining real-life cases to draw conclusions and identify patterns.
    [Link to Project](https://github.com/RashmithaEri/InfectiousDiseaseInformatics)
 
-3. **Your Additional Project Title:**
+5. **Your Additional Project Title:**
    [Link to Project](https://github.com/RashmithaEri/Your-Additional-Project)
