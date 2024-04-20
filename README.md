@@ -12,7 +12,7 @@ I'm Rashmitha, a healthcare professional enthusiastic about using technology and
 
 👯 **Collaboration:** I'm eager to collaborate on projects related to health informatics, data analysis, and healthcare technology.
 
-💬 **Let's Chat:** Feel free to ask me about health informatics, data analysis in healthcare, and my journey from clinical practice to informatics. You can reach me via email at rashmithaeri@gmail.com or connect with me on  [LinkedIn](https://www.linkedin.com/in/rashmitha-eri).
+💬 **Let's Chat:** Feel free to ask me about health informatics, data analysis in healthcare, and my journey from clinical practice to informatics. You can reach me via email at rashmithaeri@gmail.com 
 
 😄 **Pronouns:** She/Her
 
