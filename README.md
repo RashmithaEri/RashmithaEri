@@ -46,5 +46,5 @@ I'm Rashmitha, a healthcare professional enthusiastic about using technology and
    - Case Study Analysis: Examining real-life cases to draw conclusions and identify patterns.
    [Link to Project](https://github.com/RashmithaEri/InfectiousDiseaseInformatics)
 
-5. **Your Additional Project Title:**
+5. **My Additional Project Title:**
    [Link to Project](https://github.com/RashmithaEri/Your-Additional-Project)
